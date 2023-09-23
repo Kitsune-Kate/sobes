@@ -1,7 +1,7 @@
 package org.example;
 
 public class NewClass {
-  String name;
+  private String name;
   private String email;
   final int AGE = 12;
 
