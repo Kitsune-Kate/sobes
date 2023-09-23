@@ -2,7 +2,7 @@ package org.example;
 
 public class NewClass {
   String name;
-  String email;
+  private String email;
   final int AGE = 12;
 
   public String getName() {
